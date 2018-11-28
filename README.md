@@ -2,3 +2,7 @@
 Run 
 docker build -t jenkins . && ./docker-run
 To build and deploy using jenkins
+
+```bash
+gcloud auth login
+```
