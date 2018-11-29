@@ -15,7 +15,7 @@ gcloud container clusters create <name> --zone <zone>
 ```bash
 kubectl create -f <file_name.yaml>
 ```
-#### Use this to get vertification code
+#### See whats running
 ```bash
 kubectl get pods|services|deployment
 ```
